@@ -1,0 +1,16 @@
+{
+  "error": {
+    "invalidPassword": "Invalid username or password"
+  },
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "enter": "Enter"
+  },
+  "info": {
+    "counter": "Counter",
+    "increment": "+1",
+    "exit": "Exit"
+  }
+}
